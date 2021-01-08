@@ -264,6 +264,21 @@ Config.PhoneApplications = {
 }
 Config.MaxSlots = 20
 
+--if you want to add app to the AppStore add it like that
+
+    --[[ ["Fucker"] = {
+         app = "Fucker",
+         color = "#c22c33",
+         icon = "rooler",
+         tooltipText = "Rooler",
+         tooltipPos = "right",
+         job = false,
+         blockedjobs = {},
+         slot = 1,
+         Alerts = 0,
+     }, --]]
+
+
 Config.StoreApps = {
 
     },
