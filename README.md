@@ -2,12 +2,14 @@
 
 FiveM QBUS Phone v2 ( *FIXED* )
 
-What is fixed ?:
-```
-Phone notify
-Tokovoip full support
-App store
-Posting twitter posts
-```
+**Fixed**:
+*1*- `Phone notify         `
+*2*- `Tokovoip full support`
+*3*- `App store            `
+*3*- `Posting twitter posts`
+
+**Issues**:
+*1*- `Arabic language`
+
 # For support: Discord
-☈NFH#1211
+**☈NFH#1211**
