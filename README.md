@@ -3,9 +3,9 @@
 FiveM QBUS Phone v2 ( *FIXED* )
 
 **Fixed**:
- *1*- `Phone notify         `
+ *1*- `Phone notify`
  *2*- `Tokovoip full support`
- *3*- `App store            `
+ *3*- `App store`
  *4*- `Posting twitter posts`
 
 **Issues**:
