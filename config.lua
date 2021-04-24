@@ -4,7 +4,27 @@ Config.RepeatTimeout = 2500
 Config.CallRepeats = 10
 Config.OpenPhone = 244
 Config.PhoneApplications = {
-    ["phone"] = {
+    
+}
+Config.MaxSlots = 20
+
+--if you want to add app to the AppStore add it like that
+
+    --[[ ["Fucker"] = {
+         app = "Fucker",
+         color = "#c22c33",
+         icon = "rooler",
+         tooltipText = "Rooler",
+         tooltipPos = "right",
+         job = false,
+         blockedjobs = {},
+         slot = 1,
+         Alerts = 0,
+     }, --]]
+
+
+Config.StoreApps = {
+["phone"] = {
         app = "phone",
         color = "#04b543",
         icon = "fa fa-phone-alt",
@@ -261,25 +281,4 @@ Config.PhoneApplications = {
     --     slot = 17,
     --     Alerts = 0,
     -- },
-}
-Config.MaxSlots = 20
-
---if you want to add app to the AppStore add it like that
-
-    --[[ ["Fucker"] = {
-         app = "Fucker",
-         color = "#c22c33",
-         icon = "rooler",
-         tooltipText = "Rooler",
-         tooltipPos = "right",
-         job = false,
-         blockedjobs = {},
-         slot = 1,
-         Alerts = 0,
-     }, --]]
-
-
-Config.StoreApps = {
-
-    },
 }
