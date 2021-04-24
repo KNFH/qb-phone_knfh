@@ -1,5 +1,15 @@
 # qb-phone_knfh
-QBUS Phone ((FIXED)) With Automatic updates | Gift from me
 
-# My discord
-./dev/knfh/#1211
+FiveM QBUS Phone v2 ( *FIXED* )
+
+**Fixed**:
+ *1*- `Phone notify`
+ *2*- `Tokovoip full support`
+ *3*- `App store`
+ *4*- `Posting twitter posts`
+
+**Issues**:
+ *1*- `Arabic language`
+
+# For support: Discord
+**☈NFH#1211**
